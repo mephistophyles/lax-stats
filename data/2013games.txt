@@ -1,0 +1,479 @@
+Date    Home Team                    Away Team                   Scores   
+
+  202     High Point                   Delaware                     10 12     
+  208     High Point                   Towson                        9  7     
+  208     Johns Hopkins                Siena                        15  6     
+  208     North Carolina               Air Force                    16  8     
+  209     Duke                         Denver                       12 14     
+  209     Mercer                       Rollins                      13  3     
+  209     Michigan                     Penn State                    6 11     
+  209     Navy                         VMI                          20  7     
+  209     Ohio State                   Detroit                      14  8     
+  209     Robert Morris                Bellarmine                    8  9     
+  209     Delaware                     Bucknell                      8  9     
+  210     Bryant                       Colgate                      13 14   ot
+  210     Duke                         Jacksonville                 21  9     
+  210     High Point                   Air Force                     4 14     
+  210     Lehigh                       Saint Joseph's               14  1     
+  210     Rutgers                      Manhattan                    15  6     
+  210     Massachusetts                Army                         16  9     
+  212     Maryland                     Mount St. Mary's             23  6     
+  213     Army                         Manhattan                    14  8     
+  215     Navy                         Detroit                      11  7     
+  215     Wagner                       Providence                    6 17     
+  216     Army                         VMI                          14  8     
+  216     Bellarmine                   Michigan                     12  6     
+  216     Bryant                       Fairfield                     6  8     
+  216     Duke                         Notre Dame                    5 13     
+  216     Georgetown                   Lafayette                    10 11   ot
+  216     Hartford                     Maryland                      4 16     
+  216     Holy Cross                   St. John's                    9 11     
+  216     Hofstra                      Sacred Heart                 14  9     
+  216  N  High Point                   Saint Joseph's                5  8     
+  216     Marist                       Stony Brook                  13  9     
+  216     Robert Morris                UMBC                         12  9     
+  216     Rutgers                      Air Force                     9 11     
+  216     Siena                        Hobart                       15 18     
+  216     Towson                       Johns Hopkins                 6 12     
+  216     Delaware                     Loyola                        8  9     
+  216  N  Massachusetts                North Carolina               12 11     
+  216     Virginia                     Drexel                       13 12   ot
+  216     Vermont                      Colgate                       7 13     
+  216     Villanova                    Lehigh                        9 11     
+  217     Duke                         Mercer                       15  3     
+  217     Jacksonville                 Ohio State                    6  9     
+  217     Mount St. Mary's             Bucknell                     12 11     
+  217  N  Penn State                   Denver                       15 12     
+  217     Syracuse                     Albany                       15 16 2 ot
+  219     Fairfield                    Navy                         10  9     
+  219     Lafayette                    Stony Brook                  10 12     
+  219     Rutgers                      Wagner                       20 10     
+  219     Virginia                     VMI                          18  4     
+  220     Towson                       Loyola                        9 14     
+  222     Penn                         Duke                         14  9     
+  223  N  Air Force                    Canisius                     10  8     
+  223     Bellarmine                   High Point                   12  5     
+  223     Brown                        Quinnipiac                    7  9     
+  223     Bucknell                     Bryant                       10  8     
+  223     Dartmouth                    Colgate                      10 13     
+  223     Denver                       Lehigh                       18 10     
+  223     Drexel                       Albany                       20 19     
+  223     Harvard                      Massachusetts                 6  8     
+  223     Holy Cross                   Hartford                     11  9     
+  223     Hofstra                      Princeton                     7 10     
+  223     Johns Hopkins                Michigan                     17  8     
+  223     Loyola                       Maryland                     10 12     
+  223     Manhattan                    Lafayette                    11  7     
+  223     Marist                       Sacred Heart                 15 12     
+  223     Mount St. Mary's             Delaware                     15 12     
+  223     Ohio State                   Marquette                    18  8     
+  223     Providence                   Vermont                      13  5     
+  223     Robert Morris                Detroit                       9  5     
+  223     Siena                        Binghamton                    9  8     
+  223     St. John's                   Yale                         10  9     
+  223     Stony Brook                  Virginia                      7 13     
+  223     Saint Joseph's               VMI                          10  3     
+  223     UMBC                         Rutgers                      11  7     
+  223     North Carolina               Fairfield                    10  9     
+  224     Air Force                    Lehigh                       15 10     
+  224  N  Cornell                      Hobart                       19 11     
+  224  N  Denver                       Canisius                     11  4     
+  224     Georgetown                   Navy                          9  8   ot
+  224     Penn State                   Notre Dame                    9 10   ot
+  224     Syracuse                     Army                          6  2     
+  224     Towson                       Mercer                        9  8   ot
+  226     Cornell                      Binghamton                   11  6     
+  226     Dartmouth                    Vermont                      13  8     
+  226     Drexel                       Villanova                    12 10     
+  226     Fairfield                    Hofstra                       2  9     
+  226     Harvard                      Holy Cross                   16 12     
+  226     Loyola                       UMBC                         21  9     
+  226     St. John's                   Stony Brook                   7 11     
+  226     Penn                         Saint Joseph's                6  5     
+  226     Virginia                     Mount St. Mary's             18 11     
+  226     Wagner                       Lafayette                     9 13     
+  301     Johns Hopkins                Princeton                     8 11     
+  301     Syracuse                     Virginia                      9  8   ot
+  302     Air Force                    Marquette                     6  8     
+  302     Albany                       Yale                          8 15     
+  302  N  Army                         Michigan                     12  1     
+  302     Binghamton                   Hobart                        6  2     
+  302     Bucknell                     Navy                         11  2     
+  302     Cornell                      Colgate                      19  3     
+  302     Denver                       Penn                         15 12     
+  302     Duke                         Maryland                      7 16     
+  302     Fairfield                    UMBC                         14  9     
+  302  N  Georgetown                   Dartmouth                    10  9     
+  302     Hofstra                      Harvard                      10  5     
+  302     Jacksonville                 High Point                    9  8     
+  302     Lafayette                    Marist                        5  8     
+  302     Lehigh                       VMI                          18  2     
+  302     Loyola                       Bellarmine                    8  6     
+  302     Mount St. Mary's             Towson                        5 13     
+  302     Notre Dame                   North Carolina               10  9 3 ot
+  302     Providence                   Manhattan                    12  9     
+  302     Penn State                   Ohio State                    9 10   ot
+  302     Robert Morris                Drexel                       12 13     
+  302     Rutgers                      Stony Brook                  12 13 3 ot
+  302     Sacred Heart                 Holy Cross                    9 11     
+  302     Siena                        St. John's                   11 12     
+  302     Saint Joseph's               Wagner                       10  4     
+  302     Detroit                      Quinnipiac                   10 12     
+  302     Massachusetts                Brown                         8  9   ot
+  302     Vermont                      Bryant                        6  5   ot
+  302     Villanova                    Delaware                     14  9     
+  305     Albany                       Massachusetts                15  9     
+  305     Bellarmine                   Detroit                      10  4     
+  305     Canisius                     Cornell                       7 18     
+  305     Hobart                       Colgate                       9  8   ot
+  305     Johns Hopkins                Mount St. Mary's             19  9     
+  305     Lafayette                    Delaware                      9 11     
+  305     Lehigh                       Penn                          4  6     
+  305     Princeton                    Villanova                    14 11     
+  305     Rutgers                      Holy Cross                    8  9     
+  305     Sacred Heart                 Yale                          6 14     
+  305     Stony Brook                  Siena                        11  9     
+  305     Virginia                     Vermont                      12 10     
+  306     Hartford                     Brown                         4 14     
+  306     High Point                   Michigan                     13 10     
+  306     Saint Joseph's               Mercer                        9 10     
+  308     Duke                         Loyola                        9  8     
+  308     Johns Hopkins                UMBC                         13  7     
+  308  N  Quinnipiac                   Vermont                      10  6     
+  308     Towson                       Marist                        9 10   ot
+  309     Bellarmine                   Air Force                    11 10     
+  309     Brown                        Saint Joseph's               17  9     
+  309     Bucknell                     Massachusetts                 7  4     
+  309     Canisius                     Albany                       11 12     
+  309     Colgate                      Holy Cross                   14  6     
+  309     Dartmouth                    Robert Morris                11  9     
+  309     Drexel                       Bryant                       11  5     
+  309     Harvard                      Georgetown                    8  6     
+  309     Hobart                       Michigan                     11  7     
+  309     Jacksonville                 Marquette                    13  7     
+  309  N  Lehigh                       Penn State                   12 10     
+  309     Mount St. Mary's             Manhattan                    16  7     
+  309     Navy                         Lafayette                    12 11     
+  309     Notre Dame                   Hofstra                       7  8     
+  309     Ohio State                   Denver                        9 10     
+  309     Providence                   Sacred Heart                 12 10     
+  309     Rutgers                      Army                          8 10     
+  309     Siena                        Hartford                     14 15     
+  309  N  Syracuse                     St. John's                   13 11     
+  309     Delaware                     Binghamton                    8  9     
+  309     North Carolina               Princeton                    16 15     
+  309  N  Penn                         Villanova                    13  9     
+  309     Virginia                     Cornell                      11 12     
+  309     Wagner                       Mercer                       11 12     
+  309     Yale                         Fairfield                    12  8     
+  310     Maryland                     Stony Brook                  13  7     
+  312     Bucknell                     Drexel                       17  8     
+  312     Colgate                      Binghamton                   12  5     
+  312     Hobart                       Canisius                     12  8     
+  312     Jacksonville                 Robert Morris                 6 11     
+  312     Mercer                       Marquette                    11 14     
+  312     Mount St. Mary's             Georgetown                   14  6     
+  312     Navy                         Towson                        7  8     
+  312     Princeton                    Manhattan                    15  2     
+  312     Quinnipiac                   Providence                   12 13     
+  312     Wagner                       VMI                          18 12     
+  313     North Carolina               Duke                          8 11     
+  314     Fairfield                    Michigan                     10  8     
+  316  N  Air Force                    Loyola                        7 13     
+  316     Army                         Lehigh                        6 10     
+  316     Bellarmine                   Mercer                       12  5     
+  316     Binghamton                   Manhattan                    13  6     
+  316     Brown                        Harvard                      11  9     
+  316     Bryant                       Albany                       15 17     
+  316     Denver                       Notre Dame                   12 13   ot
+  316     Drexel                       Mount St. Mary's             14 11     
+  316     Duke                         Towson                       12  4     
+  316     Georgetown                   Providence                   16  8     
+  316     Jacksonville                 Siena                        11 10   ot
+  316     Lafayette                    Bucknell                      6 13     
+  316     Marist                       Detroit                      11  8     
+  316     Quinnipiac                   Hartford                     10 11     
+  316     Sacred Heart                 Stony Brook                  10 12     
+  316     St. John's                   Rutgers                      20 13     
+  316     Saint Joseph's               Marquette                    12  7     
+  316     Syracuse                     Johns Hopkins                13  8     
+  316     Delaware                     Hofstra                       5 10     
+  316     Massachusetts                Penn State                    5  7     
+  316     UMBC                         High Point                   16 11     
+  316     Penn                         Princeton                    11 10     
+  316     Virginia                     Ohio State                   10 11     
+  316     Vermont                      Wagner                       15  6     
+  316     Villanova                    Maryland                      7 10     
+  316     VMI                          Canisius                      7 10     
+  316     Yale                         Cornell                      10 12     
+  317  N  Colgate                      Michigan                     10  7     
+  317  N  Holy Cross                   Navy                          7  5     
+  317     Robert Morris                Hobart                       16 12     
+  318     Duke                         Marist                       19 11     
+  318     North Carolina               Dartmouth                    13  5     
+  319     Binghamton                   Penn State                    7 11     
+  319     Cornell                      Bucknell                      8  9     
+  319     Fairfield                    Quinnipiac                   11 10     
+  319     Providence                   Syracuse                      9 18     
+  319     St. John's                   Hofstra                       7  6     
+  319     UMBC                         Towson                        9 12     
+  320     Georgetown                   Loyola                        8 13     
+  320     Harvard                      Bryant                        7  5     
+  320     Hartford                     Sacred Heart                 10  7     
+  320     Lehigh                       Massachusetts                 4  6     
+  320     Manhattan                    Mercer                       12 11     
+  320     Notre Dame                   Ohio State                    9  4     
+  322     Princeton                    Yale                         10  9     
+  322     Delaware                     Towson                        6  7   ot
+  323     Albany                       Bucknell                     12 18     
+  323     Army                         Lafayette                    15  6     
+  323     Bellarmine                   Ohio State                    7  9     
+  323     Binghamton                   Quinnipiac                   11  9     
+  323     Canisius                     Marist                        5 13     
+  323     Cornell                      Penn                         10  5     
+  323     Dartmouth                    Harvard                       6  9     
+  323     Duke                         Georgetown                   19  7     
+  323     Hartford                     Massachusetts                11 13     
+  323     Hobart                       Fairfield                    10 13     
+  323     Holy Cross                   Lehigh                        5  8     
+  323     Hofstra                      Drexel                        7  8 3 ot
+  323  N  Johns Hopkins                Virginia                     15  8     
+  323     Manhattan                    Jacksonville                  7 10     
+  323     Michigan                     Loyola                        3 10     
+  323  N  Navy                         Colgate                       3 11     
+  323     Providence                   Siena                        11 13     
+  323     Penn State                   Saint Joseph's                9  2     
+  323  N  Robert Morris                St. John's                   11 17     
+  323     Sacred Heart                 Vermont                       7  8   ot
+  323     Stony Brook                  Bryant                        9 10     
+  323     Detroit                      VMI                          11  6     
+  323     UMBC                         Mount St. Mary's             10  8     
+  323     Maryland                     North Carolina                8 10     
+  323     Villanova                    Syracuse                     11 10     
+  324     High Point                   Brown                         8 21     
+  324     Rutgers                      Notre Dame                    6  7     
+  326     Bryant                       Providence                    9 10     
+  326     Bucknell                     Penn State                    3 11     
+  326     Cornell                      Siena                        17  9     
+  326     Denver                       Air Force                    11 10   ot
+  326     Harvard                      Albany                        7 16     
+  326     Hofstra                      Dartmouth                    11  9     
+  326     Vermont                      Holy Cross                    5  8     
+  327     Drexel                       Saint Joseph's               16  3     
+  327     High Point                   Lafayette                     9 10 2 ot
+  327     North Carolina               Brown                        18 12     
+  329     Georgetown                   Marquette                    17 12     
+  329     Syracuse                     Canisius                     17  5     
+  330     Binghamton                   Albany                        8 21     
+  330     Bryant                       Quinnipiac                   17  7     
+  330     Bucknell                     Holy Cross                   16  9     
+  330     Cornell                      Dartmouth                    21  5     
+  330     Drexel                       Delaware                     11 10     
+  330     Fairfield                    Bellarmine                    7  8     
+  330     Harvard                      Duke                         11 12     
+  330     Hartford                     UMBC                         15 14   ot
+  330     Hobart                       Denver                        5 14     
+  330     Jacksonville                 Detroit                       9  8   ot
+  330     Lehigh                       Navy                         12  7     
+  330     Marist                       VMI                          23  5     
+  330     Michigan                     Air Force                     6 10     
+  330     Mount St. Mary's             Sacred Heart                  5 14     
+  330     Notre Dame                   St. John's                   10 12     
+  330     Ohio State                   Loyola                        4  9     
+  330     Princeton                    Brown                        15  8     
+  330     Robert Morris                Wagner                       22  6     
+  330     Rutgers                      Providence                    9 10   ot
+  330     Siena                        Manhattan                    11  8     
+  330     Saint Joseph's               Massachusetts                 7  6     
+  330     Towson                       Hofstra                       7  6     
+  330     North Carolina               Johns Hopkins                11 10   ot
+  330     Penn                         Yale                          6  7   ot
+  330     Virginia                     Maryland                      7  9     
+  330     Vermont                      Stony Brook                  10 19     
+  330     Villanova                    Penn State                    6  7     
+  331     Colgate                      Army                          4 10     
+  331     Mercer                       High Point                   10 12     
+  402  N  Marquette                    Notre Dame                    5 17     
+  402     Wagner                       Manhattan                    11 12     
+  402     Yale                         Providence                   13  6     
+  403     Georgetown                   Villanova                     6  8     
+  403     Marist                       Delaware                      7  8     
+  405     Denver                       Marquette                    15  4     
+  405     Duke                         High Point                   17  6     
+  405     Johns Hopkins                Albany                        9 10     
+  405     Navy                         Maryland                      8 11     
+  406     Army                         Bucknell                      8  9     
+  406     Brown                        Penn                          3 10     
+  406     Bryant                       Robert Morris                15 11     
+  406     Canisius                     Siena                         6 16     
+  406     Harvard                      Cornell                      12 14     
+  406     Lafayette                    Holy Cross                   10 11     
+  406     Lehigh                       Colgate                      13 10     
+  406     Loyola                       Fairfield                    13  7     
+  406     Mercer                       Air Force                     9 15     
+  406     Ohio State                   Hobart                       10  6     
+  406     Princeton                    Syracuse                     12 13     
+  406     Penn State                   Drexel                       13  6     
+  406     Quinnipiac                   Mount St. Mary's             12  8     
+  406  N  St. John's                   Georgetown                   13 14   ot
+  406     Stony Brook                  Binghamton                   13 14   ot
+  406     Saint Joseph's               Hofstra                       1 13     
+  406     Towson                       Massachusetts                 9  5     
+  406     Delaware                     Michigan                     12  5     
+  406     Detroit                      Manhattan                    14  8     
+  406     UMBC                         Vermont                      19  6     
+  406     Virginia                     North Carolina                7 10     
+  406     Villanova                    Rutgers                      11  9     
+  406     VMI                          Jacksonville                  8 13     
+  406     Wagner                       Sacred Heart                  8 21     
+  406     Yale                         Dartmouth                     7  5     
+  407     Albany                       Hartford                     24 11     
+  407     Denver                       Bellarmine                   11 10 2 ot
+  407     Providence                   Notre Dame                    8 13     
+  409     Bryant                       Holy Cross                   10  6     
+  409     Dartmouth                    Hartford                      7  8     
+  409     Quinnipiac                   Harvard                       8 18     
+  409     Rutgers                      Princeton                     8 13     
+  410     Syracuse                     Cornell                      13 12     
+  412     Bucknell                     Lehigh                        7 11     
+  412     Duke                         Virginia                     19 16     
+  412     Yale                         Brown                        11  8     
+  413     Bellarmine                   Hobart                        8  9 2 ot
+  413     Binghamton                   Hartford                      3 11     
+  413     Dartmouth                    Princeton                    10  9     
+  413     Fairfield                    Air Force                     9  8     
+  413     Harvard                      Penn                          8  7   ot
+  413     Holy Cross                   Providence                   11 12     
+  413     Hofstra                      North Carolina                5 14     
+  413     High Point                   Marquette                     6 14     
+  413     Jacksonville                 Marist                       11 14     
+  413     Lafayette                    Colgate                      10 14     
+  413     Loyola                       Denver                       12 13   ot
+  413     Manhattan                    Canisius                      6  8     
+  413     Michigan                     Ohio State                    8 17     
+  413     Navy                         Army                          7 14     
+  413     Penn State                   Towson                       10  8     
+  413     Sacred Heart                 Quinnipiac                   12 13 3 ot
+  413     Siena                        Detroit                      13 10     
+  413     St. John's                   Villanova                    11 13     
+  413     Stony Brook                  UMBC                         12 13     
+  413     Saint Joseph's               Delaware                      6 11     
+  413     Syracuse                     Rutgers                      12 11     
+  413     Massachusetts                Drexel                       14 15     
+  413     Maryland                     Johns Hopkins                 4  7     
+  413     Vermont                      Albany                       11 21     
+  413     Wagner                       Bryant                        6 15     
+  414     Notre Dame                   Georgetown                   10  8     
+  414     Robert Morris                Mount St. Mary's             12 11     
+  414     VMI                          Mercer                        8 16     
+  415     Canisius                     Binghamton                   12 11     
+  415     Yale                         Stony Brook                  11 10   ot
+  416     Providence                   Brown                         6  7     
+  416     Syracuse                     Hobart                       12 13     
+  419     Albany                       UMBC                         16 10     
+  419     Princeton                    Harvard                      14  6     
+  420     Air Force                    Ohio State                    9 10     
+  420     Binghamton                   Vermont                       7  8     
+  420     Brown                        Cornell                       7 13     
+  420     Canisius                     Jacksonville                 10 11     
+  420     Colgate                      Bucknell                      8 13     
+  420     Denver                       Fairfield                     9 10     
+  420     Drexel                       Towson                       14 11     
+  420     Georgetown                   Syracuse                      8  9     
+  420     Hartford                     Stony Brook                   9 10   ot
+  420     Hobart                       Loyola                       11 19     
+  420     Holy Cross                   Army                          5 14     
+  420     Hofstra                      Massachusetts                 8  9     
+  420     Johns Hopkins                Navy                         15  4     
+  420     Lehigh                       Lafayette                    14  5     
+  420     Marist                       Siena                        10  9   ot
+  420     Michigan                     Saint Joseph's               11  8     
+  420     Marquette                    Detroit                      14  9     
+  420     Mount St. Mary's             Bryant                       10  9     
+  420     Notre Dame                   Villanova                    13  9     
+  420     Providence                   St. John's                   13 16     
+  420     Quinnipiac                   Wagner                       11 10     
+  420     Rutgers                      Duke                          7 16     
+  420     Sacred Heart                 Robert Morris                14 13     
+  420     Delaware                     Penn State                    7 13     
+  420     Maryland                     Yale                          8  7     
+  420     North Carolina               High Point                   20  8     
+  420     Penn                         Dartmouth                    11  2     
+  420     Virginia                     Bellarmine                   12  7     
+  420     VMI                          Manhattan                    10  6     
+  423     Bellarmine                   Marquette                     8  9   ot
+  423     Bryant                       Brown                         7  8     
+  423     Holy Cross                   Dartmouth                    11 10     
+  423     Siena                        Albany                       10  9     
+  423     Saint Joseph's               Marist                        6 14     
+  426  T  Bucknell                     Army                         12  9     
+  426  T  Lehigh                       Colgate                      15  7     
+  426     Massachusetts                Delaware                     16  8     
+  426  T  Maryland                     Virginia                      6 13     
+  426  T  North Carolina               Duke                         18 17     
+  427     Air Force                    Hobart                       16 12     
+  427     Bryant                       Sacred Heart                 12  7     
+  427     Dartmouth                    Brown                         7  8 3 ot
+  427     Denver                       Michigan                     12  4     
+  427     Drexel                       High Point                   14  8     
+  427     Harvard                      Yale                         10 11     
+  427     Hofstra                      Penn State                    7 16     
+  427     Johns Hopkins                Loyola                        4  8     
+  427     Manhattan                    Marist                       14 12     
+  427     Mercer                       Jacksonville                  9 12     
+  427     Ohio State                   Fairfield                    14  8     
+  427  N  Princeton                    Cornell                      11 17     
+  427     Robert Morris                Quinnipiac                    9  7     
+  427     Rutgers                      Georgetown                    7 15     
+  427     Siena                        VMI                          16 10     
+  427     St. John's                   Marquette                    15 10     
+  427     Stony Brook                  Albany                       12 21     
+  427  N  Syracuse                     Notre Dame                   10  4     
+  427     Towson                       Saint Joseph's               13  6     
+  427     Detroit                      Canisius                     13  7     
+  427     UMBC                         Binghamton                   10  9     
+  427  N  Penn                         Bellarmine                   10  5     
+  427     Vermont                      Hartford                     11 17     
+  427     Villanova                    Providence                   19 11     
+  427     Wagner                       Mount St. Mary's              7 14     
+  428  T  Lehigh                       Bucknell                     11  5     
+  428  T  North Carolina               Virginia                     16 13     
+  501  T  Drexel                       Towson                        8 11     
+  501  T  Penn State                   Massachusetts                10  7     
+  502  T  Bryant                       Sacred Heart                 11  9     
+  502  T  Denver                       Fairfield                    10  8     
+  502  T  Hartford                     UMBC                         13 15     
+  502  T  Loyola                       Ohio State                   11 18     
+  502  T  Robert Morris                Quinnipiac                   15 14     
+  502  T  Stony Brook                  Albany                       15 17     
+  502  T  Syracuse                     Notre Dame                    9  3     
+  502  T  Villanova                    Georgetown                   15 12     
+  503     Army                         Johns Hopkins                 4  9     
+  503  T  Cornell                      Princeton                    13 14   ot
+  503  T  Jacksonville                 Siena                         8 11     
+  503  T  Marist                       Detroit                       6  7     
+  503  T  Penn State                   Towson                       10 11     
+  503  T  Yale                         Penn                          9  6     
+  504  T  Albany                       UMBC                         19 10     
+  504  T  Bryant                       Robert Morris                14  7     
+  504  T  Denver                       Ohio State                   10 11     
+  504     Maryland                     Colgate                      18  6     
+  504  T  Villanova                    Syracuse                      9 13     
+  505     Marquette                    Duke                          3 19     
+  505  T  Siena                        Detroit                      10 11   ot
+  505  T  Yale                         Princeton                    12  8     
+  511  T  Denver                       Albany                       19 14     
+  511  T  Notre Dame                   Detroit                       9  7     
+  511  T  Penn State                   Yale                          7 10     
+  511  T  North Carolina               Lehigh                       16  7     
+  512  T  Duke                         Loyola                       12 11 2 ot
+  512  T  Ohio State                   Towson                       16  6     
+  512  T  Syracuse                     Bryant                       12  7     
+  512  T  Maryland                     Cornell                       8 16     
+  518  T  Ohio State                   Cornell                       6 16     
+  518  T  Syracuse                     Yale                          7  6     
+  519  T  Denver                       North Carolina               12 11     
+  519  T  Notre Dame                   Duke                         11 12     
+  525  T  Duke                         Cornell                      16 14     
+  525  T  Syracuse                     Denver                        9  8     
+  527  N  Syracuse                     Duke                         10 16     

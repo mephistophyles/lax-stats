@@ -2,9 +2,12 @@ from os import getcwd
 from os.path import join
 
 import matplotlib.pyplot as plt
+from matplotlib import style
 import numpy as np
 import pandas as pd
 from scipy.stats import norm
+
+style.use("ggplot")
 
 
 def goals_for_and_against(year, output=False):
@@ -32,8 +35,9 @@ def goals_for_and_against(year, output=False):
         home_goals += g_home
         away_goals += g_away
         games += 1
+    print(f"Total goal advantage of the home team is {(home_goals-away_goals)/games}\n"
+          f"scoring {home_goals} times while giving up {away_goals} over a total of {games} games.")
     if output:
-        print(f"Total goal advantage of the home team is {(home_goals-away_goals)/games}.")
         team_list = teams.keys()
         for team in team_list:
             try:
@@ -43,8 +47,8 @@ def goals_for_and_against(year, output=False):
                 goals_home_givenup = teams[team]["home_givenup"]
                 goals_away_scored = teams[team]["away_scored"]
                 goals_away_givenup = teams[team]["away_givenup"]
-                print(f"{team} scored on average {goals_home_scored/played_home} goals, vs giving up {goals_home_givenup/played_home} at home\n"
-                      f"they also scored {goals_away_scored/played_away} goals away, vs giving up {goals_away_givenup/played_away}\n\n")
+                print(f"{team} scored on average {goals_home_scored/played_home} goals, vs giving up {goals_home_givenup/played_home} at over {played_home} games at home\n"
+                      f"they also scored {goals_away_scored/played_away} goals away, vs giving up {goals_away_givenup/played_away} over {played_away} games\n\n")
             except:
                 print()
     return pd.DataFrame.from_dict(teams).transpose()
@@ -60,13 +64,18 @@ def plot_home_away(year):
     data = home_away_goals_df(year)
     plt.hist(data[['home-points', 'away-points']].values, range(25),
              alpha=0.7, label=['home goals', 'away goals'], normed=True, color=['red', 'blue'])
+    plt.legend(['home goals', 'away goals'])
+    plt.xlabel("Goals")
+    plt.ylabel("Frequency")
+    plt.title(f"Goals Scored for Regular Season {year}")
     plt.show()
 
 
+# for year in [2013, 2014, 2015, 2016, 2017]:
 # goals_for_and_against(2017, True)
 #
 # data = home_away_goals_df(2017)
 # plt.plot(data['home-points'])
 # plt.plot(data['away-points'])
 # plt.show()
-plot_home_away(2015)
+plot_home_away(2013)

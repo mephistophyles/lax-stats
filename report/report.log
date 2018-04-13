@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.1.26)  11 APR 2018 14:22
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.1.26)  11 APR 2018 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,29 +372,57 @@ LaTeX Info: Redefining \nameref on input line 14.
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
 
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 38.
+
+Overfull \hbox (8.11694pt too wide) in paragraph at lines 38--48
+[][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 64.
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 20.
-
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 20.
+File: goals_2017.png Graphic file (type QTm)
+ <use  "goals_2017.png" >
+Overfull \hbox (17.0pt too wide) in paragraph at lines 80--81
+[][] 
+ []
+
+[2] [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (./report.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 20.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 20.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 10189 strings out of 493638
- 147298 string characters out of 6146796
- 221702 words of memory out of 5000000
- 13542 multiletter control sequences out of 15000+600000
- 4905 words of font info for 18 fonts, out of 8000000 for 9000
+ 10234 strings out of 493638
+ 147918 string characters out of 6146796
+ 233702 words of memory out of 5000000
+ 13572 multiletter control sequences out of 15000+600000
+ 8861 words of font info for 31 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 36i,4n,45p,238b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,14n,38p,452b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.pdf (1 page).
+Output written on report.pdf (4 pages).

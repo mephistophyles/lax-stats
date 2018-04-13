@@ -77,11 +77,46 @@ With some exceptions, there does seem to be a trend of teams scoring more at hom
 
 Now let's see the distribution of goals scored. Let's plot both home and away goals on the same plot.
 
+\begin{figure}[htbp]
 \includegraphics[width=\textwidth]{goals_2017.png}
+\end{figure}
 
 Looking at this plot, it seems to be a normal distribution. The results for years 2013-2016 look similar. Arguing a bit, one could say it looks a bit more like a skew normal distribution. With the limited sample size, we could probably fit a Poisson, Weibull or some other more distribution to the data. 
 
 However, a much more interesting distribution to know would be an individual team's scoring distribution. Which any layman will tell you could be largely dependent on their opponent. This means we need more data for each team.
+
+A clearer picture of the games can be obtained by plotting the goal differential for every home game. A negative goal differential would indicate a loss. 
+
+\begin{figure}[htbp]
+\includegraphics[width=\textwidth]{goal_diff_2017.png}
+\end{figure}
+
+Here we can see at a glance that about a quarter of all games were one-goal games. We can also note a distinct dropoff in frequency of games that had a larger than 7 goal differential. We can take the opportunity here to define a greater than 7 goal differential as a blow-out.
+
+    \begin{figure*}[htbp]
+        \centering
+        \begin{subfigure}[b]{0.475\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{goal_diff_2013.png}
+        \end{subfigure}
+        \hfill
+        \begin{subfigure}[b]{0.475\textwidth}  
+            \centering 
+            \includegraphics[width=\textwidth]{goal_diff_2014.png}
+        \end{subfigure}
+        \vskip\baselineskip
+        \begin{subfigure}[b]{0.475\textwidth}   
+            \centering 
+            \includegraphics[width=\textwidth]{goal_diff_2015.png}
+        \end{subfigure}
+        \quad
+        \begin{subfigure}[b]{0.475\textwidth}   
+            \centering 
+            \includegraphics[width=\textwidth]{goal_diff_2016.png}
+        \end{subfigure}
+    \end{figure*}
+
+Looking at the results from 2013-2016 as well, a similar trend starts to emerge. We note however that the home team frequently loses the one-goal games, especially in 2016 we note that if a game was close, the home team was more likely to lose the game than win it.
 
 \section*{NCAA.org Data}
 The NCAA hosts a website at ncaa.org where individual game statistics are available. In particular this allows us access to a finer granularity of data for each team. With data like goals, assists, groundballs, turnovers, faceoffs, penalties, saves and clears. Now each team can have their play evaluated off of a number of variables, with goals given up and goals scored being the values to predict. 

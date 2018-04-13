@@ -70,6 +70,15 @@ def plot_home_away(year):
     plt.title(f"Goals Scored for Regular Season {year}")
     plt.show()
 
+def plot_home_differential(year):
+    data = home_away_goals_df(year)
+    data['goal-spread'] = data['home-points']-data['away-points']
+    plt.hist(data['goal-spread'].values, bins=range(min(data['goal-spread']), max(data['goal-spread'])), alpha=0.7, normed=True)
+    plt.xlabel("Goal Differential")
+    plt.ylabel("Frequency")
+    plt.title(f"Goal Differential for Regular Season {year}")
+    plt.show()
+
 
 # for year in [2013, 2014, 2015, 2016, 2017]:
 # goals_for_and_against(2017, True)
@@ -78,4 +87,5 @@ def plot_home_away(year):
 # plt.plot(data['home-points'])
 # plt.plot(data['away-points'])
 # plt.show()
-plot_home_away(2013)
+# plot_home_away(2013)
+plot_home_differential(2017)

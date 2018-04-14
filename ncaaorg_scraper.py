@@ -9,10 +9,10 @@ import pandas as pd
 class HTMLTableParser:
 
     def __init__(self, year, team):
-        self.url = f"http://stats.ncaa.org/player/game_by_game?game_sport_year_ctl_id={year_list[year]}&org_id={team_list[team]}&stats_player_seq=-100"
         self.team = team
-        self.year = year
-        self.outputname = join(getcwd(), f"data/{year}/{team}.csv")
+        self.year = str(year)
+        self.url = f"http://stats.ncaa.org/player/game_by_game?game_sport_year_ctl_id={year_list[self.year]}&org_id={team_list[self.team]}&stats_player_seq=-100"
+        self.outputname = join(getcwd(), f"data/{self.year}/{self.team}.csv")
         print(f"starting on {self.outputname}")
         self.parse_url(self.url)
 
@@ -25,20 +25,22 @@ class HTMLTableParser:
         try:
             soup = souptag.find_all("table", class_="mytable")[1]  # we want the game-by-game table, not the overall one
             # column_names = [x for x in soup.find("tr", class_="grey_heading").text.split("\n") if x != ""]
-            column_names = ['Date', 'Opponent', 'Result', 'Goals', 'Assists', 'Points', 'Shots', 'SOG', 'GB', 'TO', 'CT', 'FO Won', 'FO Taken', 'Pen', 'Pen Time', 'G Min', 'Goals Allowed', 'Saves']
+            column_names = ['Date', 'Opponent', 'Result', 'Goals', 'Assists', 'Points', 'Shots', 'SOG', 'EMOG', 'MDDG', 'GB', 'TO', 'CT', 'FO Won', 'FO Taken', 'Pen', 'Pen Time', 'G Min', 'Goals Allowed', 'Saves']
             df = pd.DataFrame(columns=column_names)
             i = 0
             for row in soup.find_all("tr")[2:]:
                 row_contents = [x.strip() for x in row.text.split("\n") if x.strip() != '']
+                # TODO make this more robust to handle man up, man down, and penalties
                 if row_contents[0] != "Defensive Totals":
-                    while len(row_contents) > 18:
-                        del row_contents[8]  # 8th index place is man down and/or man up goal
-                    df.loc[i] = row_contents
+                    row_data = []
+                    for td in row.find_all("td"):
+                        row_data.append(td.text)
+                    df.loc[i] = row_data[:20]
                     i+=1
             df.to_csv(self.outputname, mode="w+")
             print(f"finished {self.outputname}")
         except:
-            print(f"We seem to have run into a problem parsing {team}'s {year} season data")
+            print(f"We seem to have run into a problem parsing {self.team}'s {self.year} season data")
 
 json_file = join(getcwd(), "data/ncaaorgdata.json")
 with open(json_file, 'r') as f:
@@ -52,4 +54,4 @@ for team in team_list.keys():
         if not isfile(join(getcwd(), f"data/{year}/{team}.csv")):
             hp = HTMLTableParser(year, team)
         else:
-            print(f"Already have {year} of {team}")
+            print(f"Already processed {year} of {team}")

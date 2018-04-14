@@ -1,81 +1,213 @@
-[ "desc",
-  {
-  "teams": {
-    "JHU": 322,
-    "Loyola": 369,
-    "Virginia": 746,
-    "Lafayette": 342,
-    "Towson": 711,
-    "SBU": 683,
-    "Colgate": 153,
-    "Army": 725,
-    "Delaware": 180,
-    "Navy": 726,
-    "BU": 68,
-    "Mercer": 406,
-    "Monmouth": 439,
-    "HCU": 285,
-    "Manhattan": 381,
-    "Bucknell": 83,
-    "Lehigh": 352,
-    "Duke": 193,
-    "Georgetown": 251,
-    "OSU": 518,
-    "Hobart": 282,
-    "Denver": 183,
-    "Fairfield": 220,
-    "Michigan": 418,
-    "AF": 721,
-    "Bellarmine": 52,
-    "UMBC": 391,
-    "Maryland": 392,
-    "Siena": 639,
-    "Cornell": 167,
-    "Binghamton": 62,
-    "Canisius": 116,
-    "RMU": 579,
-    "Syracuse": 688,
-    "MSM": 450,
-    "Hartford": 272,
-    "Villanova": 739,
-    "UNC": 457,
-    "Yale": 813,
-    "Furman": 244,
-    "DMU": 184,
-    "Massachusetts": 400,
-    "Jacksonville": 316,
-    "Marquette": 387,
-    "CSU": 148,
-    "ND": 513,
-    "PSU": 539,
-    "Rutgers": 587,
-    "Penn": 540,
-    "Dartmouth": 172,
-    "Harvard": 275,
-    "Brown": 80,
-    "Princeton": 554,
-    "St-Johns": 603,
-    "Providence": 556,
-    "Marist": 386,
-    "Albany": 14,
-    "VMI": 741,
-    "Wagner": 748,
-    "St-Josephs": 606,
-    "NJIT": 471,
-    "Hofstra": 283,
-    "Drexel": 191,
-    "Vermont": 738,
-    "Quinnipiac": 562,
-    "HPU": 19651,
-    "Bryant": 81
-  },
-  "example_url": "http://stats.ncaa.org/player/game_by_game?game_sport_year_ctl_id=11380&org_id=746&stats_player_seq=-100",
-  "year_codes": {
-    "2013": 11380,
-    "2014": 11580,
-    "2015": 12121,
-    "2016": 12380,
-    "2017": 12561
+{
+    "teams": {
+      "JHU"
+      :
+      322,
+      "Loyola"
+      :
+      369,
+      "Virginia"
+      :
+      746,
+      "Lafayette"
+      :
+      342,
+      "Towson"
+      :
+      711,
+      "SBU"
+      :
+      683,
+      "Colgate"
+      :
+      153,
+      "Army"
+      :
+      725,
+      "Delaware"
+      :
+      180,
+      "Navy"
+      :
+      726,
+      "BU"
+      :
+      68,
+      "Mercer"
+      :
+      406,
+      "Monmouth"
+      :
+      439,
+      "HCU"
+      :
+      285,
+      "Manhattan"
+      :
+      381,
+      "Bucknell"
+      :
+      83,
+      "Lehigh"
+      :
+      352,
+      "Duke"
+      :
+      193,
+      "Georgetown"
+      :
+      251,
+      "OSU"
+      :
+      518,
+      "Hobart"
+      :
+      282,
+      "Denver"
+      :
+      183,
+      "Fairfield"
+      :
+      220,
+      "Michigan"
+      :
+      418,
+      "AF"
+      :
+      721,
+      "Bellarmine"
+      :
+      52,
+      "UMBC"
+      :
+      391,
+      "Maryland"
+      :
+      392,
+      "Siena"
+      :
+      639,
+      "Cornell"
+      :
+      167,
+      "Binghamton"
+      :
+      62,
+      "Canisius"
+      :
+      116,
+      "RMU"
+      :
+      579,
+      "Syracuse"
+      :
+      688,
+      "MSM"
+      :
+      450,
+      "Hartford"
+      :
+      272,
+      "Villanova"
+      :
+      739,
+      "UNC"
+      :
+      457,
+      "Yale"
+      :
+      813,
+      "Furman"
+      :
+      244,
+      "DMU"
+      :
+      184,
+      "Massachusetts"
+      :
+      400,
+      "Jacksonville"
+      :
+      316,
+      "Marquette"
+      :
+      387,
+      "CSU"
+      :
+      148,
+      "ND"
+      :
+      513,
+      "PSU"
+      :
+      539,
+      "Rutgers"
+      :
+      587,
+      "Penn"
+      :
+      540,
+      "Dartmouth"
+      :
+      172,
+      "Harvard"
+      :
+      275,
+      "Brown"
+      :
+      80,
+      "Princeton"
+      :
+      554,
+      "St-Johns"
+      :
+      603,
+      "Providence"
+      :
+      556,
+      "Marist"
+      :
+      386,
+      "Albany"
+      :
+      14,
+      "VMI"
+      :
+      741,
+      "Wagner"
+      :
+      748,
+      "St-Josephs"
+      :
+      606,
+      "NJIT"
+      :
+      471,
+      "Hofstra"
+      :
+      283,
+      "Drexel"
+      :
+      191,
+      "Vermont"
+      :
+      738,
+      "Quinnipiac"
+      :
+      562,
+      "HPU"
+      :
+      19651,
+      "Bryant"
+      :
+      81
+      },
+    "example_url": "http://stats.ncaa.org/player/game_by_game?game_sport_year_ctl_id=11380&org_id=746&stats_player_seq=-100",
+    "year_codes": {
+      "2013": 11380 ,
+      "2014": 11580,
+      "2015": 12121,
+      "2016": 12380,
+      "2017": 12561
+    }
   }
-}
-]
